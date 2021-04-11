@@ -1,0 +1,50 @@
+body
+{
+	background-image: url("maths_quiz.webp");
+	background-position: center;
+    background-size: cover;
+}
+
+#button_login
+{
+border-radius: 25px;
+background-color: orangered;
+}
+
+	.login_div1 , .login_div2
+	{
+		background:yellowgreen;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#player1_name_input , #player2_name_input
+{
+ background-color: yellow;
+ border-radius: 15px;
+}
